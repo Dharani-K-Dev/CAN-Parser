@@ -1,0 +1,5 @@
+test_can
+test_frame
+test_stuff
+*.o
+*.exe
